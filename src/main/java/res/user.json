@@ -1,0 +1,23 @@
+{
+  "id": 11,
+  "name": "Test Test",
+  "username": "Test",
+  "email": "Test@april.biz",
+  "address": {
+    "street": "Test Test",
+    "suite": "Apt. 556",
+    "city": "Test",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "1-770-736-8031 x56442",
+  "website": "test.org",
+  "company": {
+    "name": "Test-Test",
+    "catchPhrase": "Multi-layered client-server neural-net",
+    "bs": "harness real-time e-markets"
+  }
+}
